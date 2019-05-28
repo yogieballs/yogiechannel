@@ -3,13 +3,13 @@
 http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/213614.m3u8
 #EXTINF:-1,###### PHILIPPINES ######
 http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/213613.m3u8
-#EXTINF:-1,PH: Aksyon Tv
+#EXTINF:-1 tvg-id="id1" tvg-name="Aksyon TV 1" tvg-logo="logo1" group-title="Group 1",Channel 1
 http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/213766.m3u8
-#EXTINF:-1,PH: AksyonTv
+#EXTINF:-1 tvg-id="id1" tvg-name="Aksyon TV 2" tvg-logo="logo1" group-title="Group 2",Channel 2
 http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/214780.m3u8
-#EXTINF:-1,PH: ANG DATING
+#EXTINF:-1 tvg-id="id1" tvg-name="Ang Dating Daan" tvg-logo="logo1" group-title="Group 3",Channel 3
 http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/213778.m3u8
-#EXTINF:-1,PH: Asia News
+#EXTINF:-1 tvg-id="id1" tvg-name="Asia News" tvg-logo="logo1" group-title="Group 4",Channel 4
 http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/213776.m3u8
 #EXTINF:-1,PH: Asian Food
 http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/213767.m3u8
