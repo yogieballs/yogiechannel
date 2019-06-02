@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,PH: CINE MO
+http://dibo.live:8080/live/Antonio1/Antonio/213376.m3u8
+#EXTINF:-1,PH: CINEMA ONE
+http://dibo.live:8080/live/Antonio1/Antonio/213377.m3u8
+#EXTINF:-1,PH: FOX FILIPINO
+http://dibo.live:8080/live/Antonio1/Antonio/213379.m3u8
+#EXTINF:-1,PH: ASIAN FOOD
+http://dibo.live:8080/live/Antonio1/Antonio/207766.m3u8
+#EXTINF:-1,PH: TFC
+http://dibo.live:8080/live/Antonio1/Antonio/207767.m3u8
+#EXTINF:-1,PH: GMA LIFE
+http://dibo.live:8080/live/Antonio1/Antonio/206360.m3u8
+#EXTINF:-1,PH: PTV
+http://dibo.live:8080/live/Antonio1/Antonio/207768.m3u8
+#EXTINF:-1,PH: SPORTS TV5
+http://dibo.live:8080/live/Antonio1/Antonio/206361.m3u8
