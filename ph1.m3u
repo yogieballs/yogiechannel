@@ -1,23 +1,25 @@
 #EXTM3U
 #EXTINF:-1,PH: CINEMA ONE
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/213377.m3u8
+http://dibo.live:8080/live/KjnNUhwATC/f1H1OnJVNk/213377.m3u8
 #EXTINF:-1,PH: CINEMO
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/213376.m3u8
+http://dibo.live:8080/live/KjnNUhwATC/f1H1OnJVNk/213376.m3u8
 #EXTINF:-1,PH: Fox Fillipino
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/213777.m3u8
+http://dibo.live:8080/live/KjnNUhwATC/f1H1OnJVNk/213379.m3u8
 #EXTINF:-1,PH: Asian Food
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/213767.m3u8
+http://dibo.live:8080/live/KjnNUhwATC/f1H1OnJVNk/207766.m3u8
 #EXTINF:-1,PH: VIVA (GSAT)
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/213850.m3u8
+http://dibo.live:8080/live/KjnNUhwATC/f1H1OnJVNk/198665.m3u8
+#EXTINF:-1,PH: MYX
+http://dibo.live:8080/live/KjnNUhwATC/f1H1OnJVNk/198652.m3u8
 #EXTINF:-1,PH: TFC
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/207767.m3u8
+http://dibo.live:8080/live/KjnNUhwATC/f1H1OnJVNk/207767.m3u8
 #EXTINF:-1,PH: GMA
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/213789.m3u8
+http://dibo.live:8080/live/KjnNUhwATC/f1H1OnJVNk/206360.m3u8
 #EXTINF:-1,PH: TV5
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/207768.m3u8
+http://dibo.live:8080/live/KjnNUhwATC/f1H1OnJVNk/207768.m3u8
 #EXTINF:-1,PH: AksyonTv
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/214780.m3u8
+http://dibo.live:8080/live/KjnNUhwATC/f1H1OnJVNk/198651.m3u8
 #EXTINF:-1,PH: GNN
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/213790.m3u8
+http://dibo.live:8080/live/KjnNUhwATC/f1H1OnJVNk/213790.m3u8
 #EXTINF:-1,PH: PTV
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/206360.m3u8
+http://dibo.live:8080/live/KjnNUhwATC/f1H1OnJVNk/206361.m3u8
